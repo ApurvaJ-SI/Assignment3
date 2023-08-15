@@ -1,0 +1,30 @@
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\Apurva.jalgaonkar\Documents\C#\Assignment 3\ShapeHierarchy\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll

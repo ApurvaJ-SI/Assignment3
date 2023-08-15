@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1t4zHJ065k6cbQ92HvHgv+/oCZe3f7arK/49/678AmEanXFsHKTY8223bbbi3f38RiHTQKB9/CdUB5jSVvmAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apurva.jalgaonkar\\Documents\\C#\\Assignment 3\\ShapeHierarchy\\ShapeHierarchy\\ShapeHierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Apurva.jalgaonkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
